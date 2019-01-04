@@ -1,0 +1,1 @@
+# ja_smart_object_java
